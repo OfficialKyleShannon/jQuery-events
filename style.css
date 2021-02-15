@@ -1,0 +1,52 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  text-align: center;
+  color: aquamarine;
+  background-color: black;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.click-here {
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+
+.more-jquery {
+ text-align: center;
+ color: white;
+ width: 900px;
+}
+
+.list {
+  color: white;
+  margin-top: 50px;
+  margin-left: 25%;
+}
+
+.subscribe {
+  text-align: center;
+  color: aquamarine;
+}
+
+.form {
+  text-align: center;
+  color: white;
+}
+
+.input {
+  color: red;
+}
+
+button {
+  background-color: black;
+  color: aquamarine;
+  border: 2px white solid;
+  margin-top: 10px;
+  margin-left: 65px;
+}
